@@ -5,7 +5,7 @@
 
 
 ## General
-This repository provides code for running inference with the autoencoder convolutional neural network (CNN) described in our [Siggraph Asia paper](http://hdrv.org/hdrcnn/), as well as training of the network. Please read the information below in order to make proper use of the method. If you use the code for your research work, please consider citing the paper according to:
+This repository provides code for running inference with the autoencoder convolutional neural network (CNN) described in the [Siggraph Asia paper](http://hdrv.org/hdrcnn/), as well as training of the network. Please read the information below in order to make proper use of the method. If you use the code for your research work, please consider citing the paper according to:
 
 ```
 @article{EKDMU17,
